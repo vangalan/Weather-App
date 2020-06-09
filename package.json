@@ -1,0 +1,25 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtjohnson0/node-weather-app.git"
+  },
+  "author": "Alan Vang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtjohnson0/node-weather-app/issues"
+  },
+  "homepage": "https://github.com/rtjohnson0/node-weather-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.3",
+    "request": "^2.88.2"
+  }
+}
